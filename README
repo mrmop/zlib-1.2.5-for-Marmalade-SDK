@@ -1,0 +1,10 @@
+Name: zlib 1.2.5 for Marmalade SDK
+Description: Version 1.2.5 of zlib for Marmalade SDK developers
+Developer: Mat Hopwood
+Contact: http://www.drmop.com
+
+Usage:
+
+1. Copy the zlib folder to the extensions folder in the Marmalade SDK
+2. Add alib.mkf to your subprojects area of your project MKB file
+3. Add zlib.h to your source file
