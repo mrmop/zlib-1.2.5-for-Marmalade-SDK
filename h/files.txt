@@ -1,0 +1,12 @@
+crc32.h
+deflate.h
+files.txt
+gzguts.h
+inffast.h
+inffixed.h
+inflate.h
+inftrees.h
+trees.h
+zconf.h
+zlib.h
+zutil.h
